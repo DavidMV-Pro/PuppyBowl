@@ -1,0 +1,19 @@
+// How it should look
+
+- <Navbar> used to navigate between the 3 player info components.
+  Navbar will also have a <searchBar>
+- <container> that will display all 3 components and <button> on player lists that takes
+  you to another component that displays player info
+
+// Reference back to previous workshops for examples
+
+// Steps
+
+-Setup front end
+-Setup api 
+
+// API
+
+const cohortName = "2308-ACC-PT-WEB-PT";
+const APIURL = `https://fsa-puppy-bowl.herokuapp.com/api/${cohortName}/`;
+https://fsa-puppy-bowl.herokuapp.com/api/2308-ACC-PT-WEB-PT/
